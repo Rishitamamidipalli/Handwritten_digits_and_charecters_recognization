@@ -10,7 +10,7 @@ This project implements a Convolutional Neural Network (CNN) for recognizing han
 
 ### Dataset
 It combines the MNIST dataset for digit recognition and a custom dataset for character recognition from kaggle.
-you can download character dataset from:https://www.kaggle.com/datasets?search=a-z+characters+dataset
+you can download character dataset from [here](https://www.kaggle.com/datasets?search=a-z+characters+dataset)
 
 MNIST data set contains 70000 didgits data of 28*28 pixels format which can be loaded using mnist.load_data()
 and character datadest contains 372450 characters data in csv file in which each image is flattened into row of 784(28*28) pixels

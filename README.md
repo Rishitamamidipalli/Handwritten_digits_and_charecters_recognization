@@ -9,11 +9,11 @@ This project implements a Convolutional Neural Network (CNN) for recognizing han
 - [Results](#Results)
 
 ### Dataset
-It combines the MNIST dataset for digit recognition and a custom dataset for character recognition from kaggle.
+It combines the MNIST dataset for digit recognition and a custom dataset for character recognition from kaggle in csv format.
 you can download character dataset from [here](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format)
 
 MNIST data set contains 70000 didgits data of 28*28 pixels format which can be loaded using mnist.load_data()
-and character datadest contains 372450 characters data in csv file in which each image is flattened into row of 784(28*28) pixels
+and character datadest contains 372450 characters data in csv file in which each image is flattened into row of 784(28*28) pixels in csv format
 
 ### Technologies Used:
 1. Convolutional Neural Network (CNN)

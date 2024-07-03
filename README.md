@@ -5,7 +5,7 @@ This project implements a Convolutional Neural Network (CNN) for recognizing han
 - [Technologies Used](#Technologies-Used)
 - [How to execute code](#How-to-execute-code)
 - [DEMO](#DEMO)
-- [Model Architechure](#Model Architechure)
+- [Model Architechure](#Model-Architechure)
 - [Results](#Results)
 
 ### Dataset
@@ -47,7 +47,7 @@ Flatten Layer: The output from the last convolutional layer is flattened into a 
 
 Dense Layers: Two dense (fully connected) layers are included. The first dense layer has 256 units with ReLU activation, while the second layer has 36 units with softmax activation, representing the number of output classes (digits 0-9 and characters A-Z)
 
-# Results :
+### Results :
 Training accuracy is about 98.5 for 5 epochs
 
 Testing accuracy:98 percent

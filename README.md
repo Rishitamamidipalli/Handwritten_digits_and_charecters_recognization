@@ -1,7 +1,9 @@
 # Hand written character and digit recognition using CNN
 This project implements a Convolutional Neural Network (CNN) for recognizing handwritten characters and digits.
+# Table of Contents
+[Dataset](#dataset)
 
-# dataset
+### Dataset
 It combines the MNIST dataset for digit recognition and a custom dataset for character recognition from kaggle.
 you can download character dataset from:https://www.kaggle.com/datasets?search=a-z+characters+dataset
 

@@ -42,4 +42,5 @@ Dense Layers: Two dense (fully connected) layers are included. The first dense l
 
 # Results :
 Training accuracy is about 98.5 for 5 epochs
+
 Testing accuracy:98 percent

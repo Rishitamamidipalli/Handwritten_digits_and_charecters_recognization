@@ -1,4 +1,4 @@
-# Hand written character and digit recognition 
+# Hand written character and digit recognition using CNN
 This project implements a Convolutional Neural Network (CNN) for recognizing handwritten characters and digits.
 
 # dataset
@@ -11,7 +11,7 @@ and character datadest contains 372450 characters data in csv file in which each
 # Technologies Used:
 1. Convolutional Neural Network (CNN)
 2. Libraries: Pandas,Numpy,sklearn,Tensorflow,CV2,Keras,streamlit
-2. Streamlit:Streamlit:Streamlit is an open-source Python library for creating interactive web apps for data science and machine learning projects easily
+2. Streamlit: Streamlit is an open-source Python library for creating interactive web apps for data science and machine learning projects easily
 
 # How to execute code
 1. First download the dataset from kaggle and add the path to the Pre_processing.py and then run that file you will get test_x.npy,train_x.npy,test_y.npy,train_y.npy which are numpy files whereour preprocessed data is stored.
@@ -20,6 +20,8 @@ and character datadest contains 372450 characters data in csv file in which each
 4. If you encounter any errors in the Webpage please reload the page again 
 
 # DEMO
+
+https://github.com/Rishitamamidipalli/Handwritten_digits_and_charecters_recognization/assets/123208162/7f6bd419-c34c-442e-b9ef-76d65f3503c5
 
 # Model Architechure
 CNN model consists of total 5 layers in which 2 are convolution layers and other two are fully connected dense layer
